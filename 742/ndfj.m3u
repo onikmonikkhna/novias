@@ -1,5 +1,4 @@
 #EXTM3U
-#PLAYLIST:Live TV Pro
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Live TV",BTV
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-name="Sangshod tv" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Live TV",Sangshod tv
